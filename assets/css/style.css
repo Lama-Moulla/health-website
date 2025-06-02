@@ -45,7 +45,7 @@
     left: 0;
     display: flex;
     justify-content: space-between;
-    align-items: flex-end;
+    align-items: center;
     background-color: white;
     z-index: 99;
 }
@@ -117,12 +117,14 @@ nav ul li a{
     justify-content: space-around;
     align-items: center;
     background-color: #F4F4F4;
+    border-radius: 12px;
 }
 .sec_3{
     display: flex;
     justify-content: start;
     align-items: center;
     background-color: #F4F4F4;
+    border-radius: 12px;
     gap: 87px;
 }
 .section_1_3 .right_img{
